@@ -1,5 +1,3 @@
-
-
 ## 2014 Game Programming 01
 
 ### 🙈 개요
@@ -10,8 +8,7 @@
 
 ### 🧐 스크린샷
 
-<video src="./screenshots/jr_1.mp4" muted="muted" loop="loop" autoplay="autoplay"></video>
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/60123221/115150892-51f52380-a0a5-11eb-8943-50b1077c6b8d.gif)
 
 
 
@@ -19,24 +16,17 @@
 
 
 
-
-
-<video src="./screenshots/jr_3.mp4" muted="muted" loop="loop" autoplay="autoplay"></video>
-
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/60123221/115150968-be702280-a0a5-11eb-8b0f-ba157066f568.gif)
 
 
 
-
-<video src="./screenshots/jr_4.mp4" muted="muted" loop="loop" autoplay="autoplay"></video>
-
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/60123221/115150999-e8c1e000-a0a5-11eb-8767-bee00511b9cf.gif)
 
 
 
-
-<video src="./screenshots/jr_5.mp4" muted="muted" loop="loop" autoplay="autoplay"></video>
-
+![jr_5_Trim](https://user-images.githubusercontent.com/60123221/115150909-6802e400-a0a5-11eb-959c-2e71f3df21b4.gif)
 
 
 
+![jr_6](https://user-images.githubusercontent.com/60123221/115150917-74873c80-a0a5-11eb-8621-43880897fb98.gif)
 
-<video src="./screenshots/jr_6.mp4" muted="muted" loop="loop" autoplay="autoplay"></video>
