@@ -1,3 +1,4 @@
+
 ## 2014 Game Programming 01
 
 ### 🙈 개요
@@ -12,7 +13,13 @@
 
 
 
-![jr_2](https://user-images.githubusercontent.com/60123221/115150679-6be23680-a0a4-11eb-8580-886864552666.gif)
+
+
+
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/60123221/115151068-47875980-a0a6-11eb-9832-8542e94e3fcd.gif)
+
+
+
 
 
 
@@ -20,13 +27,24 @@
 
 
 
+
+
+
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/60123221/115150999-e8c1e000-a0a5-11eb-8767-bee00511b9cf.gif)
 
 
 
-![jr_5_Trim](https://user-images.githubusercontent.com/60123221/115150909-6802e400-a0a5-11eb-959c-2e71f3df21b4.gif)
 
 
 
-![jr_6](https://user-images.githubusercontent.com/60123221/115150917-74873c80-a0a5-11eb-8621-43880897fb98.gif)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/60123221/115151048-30e10280-a0a6-11eb-8bd8-a63d3d95f67f.gif)
+
+
+
+
+
+
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/60123221/115151105-6980dc00-a0a6-11eb-95ab-0f6f6fc04d35.gif)
+
+
 
