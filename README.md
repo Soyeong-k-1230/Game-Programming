@@ -1,3 +1,5 @@
+
+
 ## 2014 Game Programming 01
 
 ### 🙈 개요
@@ -13,8 +15,7 @@
 
 
 
-
-<video src="./screenshots/jr_2.mp4" muted="muted" loop="loop" autoplay="autoplay"></video>
+![jr_2](https://user-images.githubusercontent.com/60123221/115150679-6be23680-a0a4-11eb-8580-886864552666.gif)
 
 
 
